@@ -1,0 +1,20 @@
+# 核心依赖
+python==3.9+
+transformers==4.30.2
+langchain==0.1.0
+langchain_community==0.0.1
+langchain_huggingface==0.0.1
+numpy==1.24.3
+torch==2.0.1
+fastapi==0.100.0
+uvicorn==0.20.0
+pydantic==2.0.0
+pydantic-settings==2.0.0
+
+# 国产技术栈依赖
+opensearch-py==2.0.0
+redis==4.5.1
+
+# 工具库
+python-multipart==0.0.6
+requests==2.31.0
